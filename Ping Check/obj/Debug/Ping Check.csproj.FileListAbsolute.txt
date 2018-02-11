@@ -1,0 +1,9 @@
+c:\users\heavy trident\Progamowanie Zaawansowane\Ping Check\Ping Check\bin\Debug\Ping Check.exe.config
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\bin\Debug\Ping Check.exe
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\bin\Debug\Ping Check.pdb
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\obj\Debug\Ping Check.csprojResolveAssemblyReference.cache
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\obj\Debug\Ping_Check.Form1.resources
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\obj\Debug\Ping_Check.Properties.Resources.resources
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\obj\Debug\Ping Check.csproj.GenerateResource.Cache
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\obj\Debug\Ping Check.exe
+C:\Users\Heavy Trident\Progamowanie Zaawansowane\Ping Check\Ping Check\obj\Debug\Ping Check.pdb
