@@ -1,6 +1,6 @@
 <h2> Program do pingowania adresów internetowych. </h2>
-<h1> Program pinguje strony internetowe i wyświetla adresy IP pod jakimi się połączyły</h1>
-<h1> Poniżej jesr kod źródłowy</h1>
+<h0> Program pinguje strony internetowe i wyświetla adresy IP pod jakimi się połączyły</h0>
+<h0> Poniżej jest kod źródłowy</h0>
 using System;<br />
 using System.Collections.Generic;<br />
 using System.ComponentModel;<br />
