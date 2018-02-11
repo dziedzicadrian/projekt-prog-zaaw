@@ -1,5 +1,5 @@
 <h1> Program do pingowania adresów internetowych. </h1>
-Program pinguje strony internetowe i wyświetla adresy IP pod jakimi się połączyły<br />
+Program pinguje strony internetowe i wyświetla czas po jakim nastąpiło połączenie.<br />
 Poniżej jest kod źródłowy<br />
 using System;<br />
 using System.Collections.Generic;<br />
